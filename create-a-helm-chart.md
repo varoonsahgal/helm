@@ -77,6 +77,9 @@ NAME        TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)          AGE
 sentences   NodePort   10.15.245.208   <none>        8080:30250/TCP   37s
 ```
 
+If you run the command `minikube service sentence`, it should start up the service in a browser, and you should be able to see the application.
+
+<!--
 In the example above, the relevant NodePort is
 `30250`.
 
@@ -100,6 +103,8 @@ Output:
 ```shell
 John is 73 years
 ```
+
+-->
 
 > :bulb: in the above example `NodePort` should be
 > changed with your nodeport found above
