@@ -177,8 +177,9 @@ With a strategic merge, a list is either replaced or merged depending on its pat
 
 </details>
 
-
+<!--
 > :bulb: credit to [this awesome blogpost](https://blog.atomist.com/kubernetes-apply-replace-patch/) for invaluable way of explaining this complex part of Kubernetes and Helm.
+-->
 
 ## Exercise
 
