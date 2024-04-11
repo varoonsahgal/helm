@@ -107,8 +107,8 @@ In this exercise we will conditionally specify which nodePort our sentences serv
 - Only insert the nodePort if service type is NodePort
 
 You can use your Helm chart from the previous exercise as the starting point for this exercise.
-Alternatively there is a Helm chart that picks up from the last exercise in `helm-katas/helm-chart-conditionals/start` that you can use.
-If you get stuck, or you want to see how the final chart looks, there is a solved version of the chart in `helm-katas/helm-chart-conditionals/done`.
+Alternatively there is a Helm chart that picks up from the last exercise in `helm/helm-chart-conditionals/start` that you can use.
+If you get stuck, or you want to see how the final chart looks, there is a solved version of the chart in `helm/helm-chart-conditionals/done`.
 
 ### Step-by-Step
 
