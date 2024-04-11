@@ -1,10 +1,7 @@
-# Helm katas
-
-A set of Helm exercises actively used by [Eficode Academy](https://www.eficode.com/academy)
 
 ## Overview of exercises
 
-Natural progression:
+Follow exercises in this order.  Note that to view the actual steps of each exercise you will have to click on where it says "More details".
 
 - [Intro to Kubernetes package manager](intro-to-kubernetes-package-manager.md)
 - [Hello sentences app](hello-sentences-app.md)
